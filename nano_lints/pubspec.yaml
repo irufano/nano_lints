@@ -1,0 +1,12 @@
+name: nano_lints
+description: A starting point for Dart libraries or applications.
+version: 0.0.1
+# homepage: https://www.example.com
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  analyzer: ^4.7.0
+  custom_lint_builder: ^0.0.9+1
+  source_gen: ^1.2.2

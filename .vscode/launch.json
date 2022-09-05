@@ -1,0 +1,40 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "dart_examples",
+            "cwd": "dart_examples",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "fluttter_examples",
+            "cwd": "fluttter_examples",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "fluttter_examples (profile mode)",
+            "cwd": "fluttter_examples",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "fluttter_examples (release mode)",
+            "cwd": "fluttter_examples",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "nano_lints",
+            "cwd": "nano_lints",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
